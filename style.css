@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+.image-container {
+  justify-content: center;
+  text-align: center;
+}
+
+a{
+  padding: 10px;
+}
+
+#details {
+ display: flex;
+ background-color: red;
+ text-align: center;
+}
+
+figcaption{
+  font-size: medium;
+}
+
+.paragraph{
+ width: 800px;
+ align-items: center;
+}
